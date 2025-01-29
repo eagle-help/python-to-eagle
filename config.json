@@ -1,0 +1,5 @@
+{
+    "releaseUrl" : "https://github.com/bjia56/portable-python/releases/download/cpython-v3.12.8-build.0",
+    "version" : "3.12.8",
+    "source" : "{releaseUrl}/python-full-{version}-{os}-{arch}.zip"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "e97e97c2-6791-45b3-b02e-4d2fe08da4f6",
+    "version": "1.2.0",
+    "platform": "all",
+    "arch": "all",
+    "name": "python-to-eagle",
+    "logo": "/logo.png",
+    "keywords": [],
+    "devTools": true,
+    "main": {
+        "serviceMode": true,
+        "url": "js/bg.html",
+        "width": 540,
+        "height": 400,
+        "alwaysOnTop": true
+    }
+}
